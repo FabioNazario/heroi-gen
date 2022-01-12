@@ -25,7 +25,7 @@ Lista todos os heróis cadastrados ou retorna um herói específico e as suas ca
 
 ```json
 {
-  "heroi": "BARBARO",
+  "nome": "BARBARO",
   "pontosDeVida": 13,
   "forca": 6,
   "defesa": 1,
